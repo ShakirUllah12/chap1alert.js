@@ -1,0 +1,15 @@
+alert("hello world");
+alert("hello");
+alert("hello my friend");
+alert("hello gyes");
+alert("i am shakir");
+alert("i am student");
+alert("i am good");
+alert("i am poor");
+alert("i am unmaried");
+alert("i am web devlper");
+alert("i am then");
+alert("i am happy");
+alert("i am sad");
+alert("i am normal");
+alert("i am good");
